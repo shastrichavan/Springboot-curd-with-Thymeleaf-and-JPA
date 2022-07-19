@@ -1,4 +1,6 @@
+
 # Springboot-curd-with-Thymeleaf-and-JPA
+-Simple student management system (create ,insert,update ,delete operation ) 
 Follow below steps for run this project:
 1)first create database using mysql. 
 query for database:
