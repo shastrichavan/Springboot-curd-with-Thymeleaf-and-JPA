@@ -1,5 +1,5 @@
 # Springboot-curd-with-Thymeleaf-and-JPA
-Follow belwo steps for run this project:
+Follow below steps for run this project:
 1)first create database using mysql. 
 query for database:
 create database studentdb.
